@@ -1,6 +1,6 @@
 export default {
   themePrimary: '#375EED',
-  white: '#F6F7F7',
+  white: '#f0f1f1',
   black: '#372F45',
   neutralLighterAlt: '#f4f5f5',
   neutralLighter: '#f0f1f1',
