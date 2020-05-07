@@ -1,0 +1,2 @@
+"src/**/*.{js,ts,tsx,json,css,md}":
+  - prettier --single-quote --trailing-comma es5 --no-semi --write
